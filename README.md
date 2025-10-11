@@ -6,7 +6,7 @@
 
 <h2>🚀 Demo</h2>
 
-[https://jira.sammi.ac/](https://jirra.vercel.app/)
+[https://jirra.vercel.app/](https://jirra.vercel.app/)
 
   
 <h2>🧐 Features</h2>
