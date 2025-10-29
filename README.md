@@ -2,6 +2,9 @@
 
 <p align="center"><img src="https://media.graphassets.com/5fxV1xnYT5OVi3WqKvcz" alt="project-image"></p>
 
+<img width="1353" height="616" alt="image" src="https://github.com/user-attachments/assets/2118e6ff-f9bc-4a32-9be6-4084c0b4ab7c" />
+
+
 <p id="description">JiraClone-Nuxt is a powerful project management tool built with modern web technologies to provide a seamless and efficient project tracking experience. This open-source project leverages the robust capabilities of Nuxt.js Vue.js Pinia TypeScript Tailwind CSS Vue Query and Tailwind CSS to deliver a feature-rich and visually appealing Jira software clone.</p>
 
 <h2>🚀 Demo</h2>
